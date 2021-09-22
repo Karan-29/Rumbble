@@ -1,4 +1,4 @@
-# Rumbble
+# Saffron
 
 Designed a simple app using React Native for finding restaurants based on their prices
 
